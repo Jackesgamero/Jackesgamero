@@ -3,7 +3,7 @@
 🎓 BSc Mathematics & BSc Computer Science  
 🔬 Recent project: Using Smart Contracts to generate traceable information concerning SLAs in 6G services  
 🧪 Dissertation: Application of Constrained Horn Clauses (CHCs) for the analysis and formal verification of smart contracts  
-🛠️ Stack: Solidity, Hardhat, Foundry, Ethers.js, formal tools 
+🛠️ Stack: Solidity, Hardhat, JavaScript, Ethers.js, formal tools 
 
 🌍 Seeking remote opportunities in blockchain, DeFi, or Web3 infrastructure.
 
