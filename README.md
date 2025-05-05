@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Jaime – Blockchain Developer | Solidity | Math & CS
+## 👋 Hi, I'm Jaime – Blockchain Developer | Solidity + Hardhat | Math & CS
 
 🎓 BSc Mathematics & BSc Computer Science  
 🔬 Recent project: Using Smart Contracts to generate traceable information concerning SLAs in 6G services  
