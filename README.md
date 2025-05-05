@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Jaime – Blockchain Developer | Solidity | Math & CS
 
 🎓 BSc Mathematics & BSc Computer Science  
-🔬 Research: Using Smart Contracts to generate traceable information concerning SLAs in 6G services  
-🧪 TFG: Use of CHC's for analysis and verification of Smart Contracts  
+🔬 Recent project: Using Smart Contracts to generate traceable information concerning SLAs in 6G services  
+🧪 Dissertation: Application of Constrained Horn Clauses (CHCs) for the analysis and formal verification of smart contracts  
 🛠️ Stack: Solidity, Hardhat, Foundry, Ethers.js, formal tools 
 
 🌍 Seeking remote opportunities in blockchain, DeFi, or Web3 infrastructure.
