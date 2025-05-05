@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Jaime – Blockchain Developer | Solidity | BSc Mathemathics & BSc Computer Science
+## 👋 Hi, I'm Jaime – Blockchain Developer | Solidity | Math & CS
 
-🎓 Dual degree in Mathematics & Computer Science  
-🔬 Research: Trust algorithms in 6G networks (migrated to Solidity)  
+🎓 BSc Mathematics & BSc Computer Science  
+🔬 Research: Using Smart Contracts to generate traceable information concerning SLAs in 6G services  
 🧪 TFG: Use of CHC's for analysis and verification of Smart Contracts  
 🛠️ Stack: Solidity, Hardhat, Foundry, Ethers.js, formal tools 
 
